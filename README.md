@@ -11,7 +11,7 @@ PHP-Sparkline generates GitHub style sparkline graphs. Read this guide to know h
 You can install the package via composer:
 
 ```bash
-composer require brendt/php-sparkline
+composer require tito10047/php-sparkline
 ```
 
 ## Usage
